@@ -1,0 +1,15 @@
+
+#birthday{
+  z-index:1; 
+  position:absolute;
+  background-color:#aaffa1;
+}
+
+#innerText{
+  display:none;
+}
+
+#picture {
+  
+  width:300px;
+}
